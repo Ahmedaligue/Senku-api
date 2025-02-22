@@ -3,22 +3,22 @@
  * ig: @dannalwaysalone
 */
 
-const author = 'FarisFreya'
+const author = 'ahmedaligue'
 
 msg = {
   paramurl: {
     status: false,
     creator: author,
-    message: 'Masukkan Parameter URL!'
+    message: 'الرابط!'
   },
   paramquery: {
     status: false,
     creator: author,
-    message: 'Masukkan Parameter Query!'
+    message: 'اين الاسم!'
   },
   nodata: {
     status: false,
     creator: author,
-    message: 'Data tidak ditemukan!'
+    message: 'خطأ فالdata!'
   }
 }
